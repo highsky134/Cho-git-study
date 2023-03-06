@@ -14,4 +14,4 @@
 3. 브랜치 관리하기
 - 주요 개념: branch, merge
 4. 커밋이력 관리하기
-- 주요개념: reset, revert
+- 주요개념: reset, amend, rebase, cherry-pick
